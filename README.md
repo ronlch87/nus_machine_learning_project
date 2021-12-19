@@ -1,1 +1,1 @@
-# nus_machine_learning_project
+# NUS_DSA5102_Machine_Learning_Project
